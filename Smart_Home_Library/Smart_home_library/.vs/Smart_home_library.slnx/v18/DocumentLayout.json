@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aaliy\\OneDrive - University of Pittsburgh\\Object_Oriented_Programming\\OOP_Homework_Assignments\\Smart_Home_Library\\Smart_home_library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82F710AF-E8F2-449E-890A-F6F4DE9B6087}|Smart_home_library.csproj|c:\\users\\aaliy\\onedrive - university of pittsburgh\\object_oriented_programming\\oop_homework_assignments\\smart_home_library\\smart_home_library\\hub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F710AF-E8F2-449E-890A-F6F4DE9B6087}|Smart_home_library.csproj|solutionrelative:hub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F710AF-E8F2-449E-890A-F6F4DE9B6087}|Smart_home_library.csproj|c:\\users\\aaliy\\onedrive - university of pittsburgh\\object_oriented_programming\\oop_homework_assignments\\smart_home_library\\smart_home_library\\smart_light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F710AF-E8F2-449E-890A-F6F4DE9B6087}|Smart_home_library.csproj|solutionrelative:smart_light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F710AF-E8F2-449E-890A-F6F4DE9B6087}|Smart_home_library.csproj|c:\\users\\aaliy\\onedrive - university of pittsburgh\\object_oriented_programming\\oop_homework_assignments\\smart_home_library\\smart_home_library\\smart_thermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F710AF-E8F2-449E-890A-F6F4DE9B6087}|Smart_home_library.csproj|solutionrelative:smart_thermostat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F710AF-E8F2-449E-890A-F6F4DE9B6087}|Smart_home_library.csproj|c:\\users\\aaliy\\onedrive - university of pittsburgh\\object_oriented_programming\\oop_homework_assignments\\smart_home_library\\smart_home_library\\security_camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F710AF-E8F2-449E-890A-F6F4DE9B6087}|Smart_home_library.csproj|solutionrelative:security_camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F710AF-E8F2-449E-890A-F6F4DE9B6087}|Smart_home_library.csproj|c:\\users\\aaliy\\onedrive - university of pittsburgh\\object_oriented_programming\\oop_homework_assignments\\smart_home_library\\smart_home_library\\smart_device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F710AF-E8F2-449E-890A-F6F4DE9B6087}|Smart_home_library.csproj|solutionrelative:smart_device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F710AF-E8F2-449E-890A-F6F4DE9B6087}|Smart_home_library.csproj|c:\\users\\aaliy\\onedrive - university of pittsburgh\\object_oriented_programming\\oop_homework_assignments\\smart_home_library\\smart_home_library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F710AF-E8F2-449E-890A-F6F4DE9B6087}|Smart_home_library.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hub.cs",
+              "DocumentMoniker": "C:\\Users\\aaliy\\OneDrive - University of Pittsburgh\\Object_Oriented_Programming\\OOP_Homework_Assignments\\Smart_Home_Library\\Smart_home_library\\Hub.cs",
+              "RelativeDocumentMoniker": "Hub.cs",
+              "ToolTip": "C:\\Users\\aaliy\\OneDrive - University of Pittsburgh\\Object_Oriented_Programming\\OOP_Homework_Assignments\\Smart_Home_Library\\Smart_home_library\\Hub.cs",
+              "RelativeToolTip": "Hub.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T21:34:32.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Security_camera.cs",
+              "DocumentMoniker": "C:\\Users\\aaliy\\OneDrive - University of Pittsburgh\\Object_Oriented_Programming\\OOP_Homework_Assignments\\Smart_Home_Library\\Smart_home_library\\Security_camera.cs",
+              "RelativeDocumentMoniker": "Security_camera.cs",
+              "ToolTip": "C:\\Users\\aaliy\\OneDrive - University of Pittsburgh\\Object_Oriented_Programming\\OOP_Homework_Assignments\\Smart_Home_Library\\Smart_home_library\\Security_camera.cs",
+              "RelativeToolTip": "Security_camera.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwDkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T21:08:00.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Smart_device.cs",
+              "DocumentMoniker": "C:\\Users\\aaliy\\OneDrive - University of Pittsburgh\\Object_Oriented_Programming\\OOP_Homework_Assignments\\Smart_Home_Library\\Smart_home_library\\Smart_device.cs",
+              "RelativeDocumentMoniker": "Smart_device.cs",
+              "ToolTip": "C:\\Users\\aaliy\\OneDrive - University of Pittsburgh\\Object_Oriented_Programming\\OOP_Homework_Assignments\\Smart_Home_Library\\Smart_home_library\\Smart_device.cs",
+              "RelativeToolTip": "Smart_device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T18:46:52.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aaliy\\OneDrive - University of Pittsburgh\\Object_Oriented_Programming\\OOP_Homework_Assignments\\Smart_Home_Library\\Smart_home_library\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aaliy\\OneDrive - University of Pittsburgh\\Object_Oriented_Programming\\OOP_Homework_Assignments\\Smart_Home_Library\\Smart_home_library\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T18:35:29.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Smart_light.cs",
+              "DocumentMoniker": "C:\\Users\\aaliy\\OneDrive - University of Pittsburgh\\Object_Oriented_Programming\\OOP_Homework_Assignments\\Smart_Home_Library\\Smart_home_library\\Smart_light.cs",
+              "RelativeDocumentMoniker": "Smart_light.cs",
+              "ToolTip": "C:\\Users\\aaliy\\OneDrive - University of Pittsburgh\\Object_Oriented_Programming\\OOP_Homework_Assignments\\Smart_Home_Library\\Smart_home_library\\Smart_light.cs",
+              "RelativeToolTip": "Smart_light.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T20:09:12.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Smart_Thermostat.cs",
+              "DocumentMoniker": "C:\\Users\\aaliy\\OneDrive - University of Pittsburgh\\Object_Oriented_Programming\\OOP_Homework_Assignments\\Smart_Home_Library\\Smart_home_library\\Smart_Thermostat.cs",
+              "RelativeDocumentMoniker": "Smart_Thermostat.cs",
+              "ToolTip": "C:\\Users\\aaliy\\OneDrive - University of Pittsburgh\\Object_Oriented_Programming\\OOP_Homework_Assignments\\Smart_Home_Library\\Smart_home_library\\Smart_Thermostat.cs",
+              "RelativeToolTip": "Smart_Thermostat.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T20:15:35.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
