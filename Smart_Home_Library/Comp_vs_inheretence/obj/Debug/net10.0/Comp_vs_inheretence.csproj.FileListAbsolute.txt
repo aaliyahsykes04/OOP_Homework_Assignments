@@ -1,0 +1,5 @@
+C:\Users\aaliy\OneDrive - University of Pittsburgh\Object_Oriented_Programming\OOP_Homework_Assignments\Smart_Home_Library\Comp_vs_inheretence\obj\Debug\net10.0\Comp_vs_inheretence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaliy\OneDrive - University of Pittsburgh\Object_Oriented_Programming\OOP_Homework_Assignments\Smart_Home_Library\Comp_vs_inheretence\obj\Debug\net10.0\Comp_vs_inheretence.AssemblyInfoInputs.cache
+C:\Users\aaliy\OneDrive - University of Pittsburgh\Object_Oriented_Programming\OOP_Homework_Assignments\Smart_Home_Library\Comp_vs_inheretence\obj\Debug\net10.0\Comp_vs_inheretence.AssemblyInfo.cs
+C:\Users\aaliy\OneDrive - University of Pittsburgh\Object_Oriented_Programming\OOP_Homework_Assignments\Smart_Home_Library\Comp_vs_inheretence\obj\Debug\net10.0\Comp_vs_inheretence.csproj.CoreCompileInputs.cache
+C:\Users\aaliy\OneDrive - University of Pittsburgh\Object_Oriented_Programming\OOP_Homework_Assignments\Smart_Home_Library\Comp_vs_inheretence\obj\Debug\net10.0\Comp_vs_inheretence.sourcelink.json

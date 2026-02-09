@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aaliy\\OneDrive - University of Pittsburgh\\Object_Oriented_Programming\\OOP_Homework_Assignments\\Smart_Home_Library\\Comp_vs_inheretence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF341B46-F1CF-54EB-763B-FD48C7A94357}|Comp_vs_inheretence.csproj|c:\\users\\aaliy\\onedrive - university of pittsburgh\\object_oriented_programming\\oop_homework_assignments\\smart_home_library\\comp_vs_inheretence\\devicegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF341B46-F1CF-54EB-763B-FD48C7A94357}|Comp_vs_inheretence.csproj|solutionrelative:devicegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF341B46-F1CF-54EB-763B-FD48C7A94357}|Comp_vs_inheretence.csproj|c:\\users\\aaliy\\onedrive - university of pittsburgh\\object_oriented_programming\\oop_homework_assignments\\smart_home_library\\comp_vs_inheretence\\minismarthomeconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF341B46-F1CF-54EB-763B-FD48C7A94357}|Comp_vs_inheretence.csproj|solutionrelative:minismarthomeconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF341B46-F1CF-54EB-763B-FD48C7A94357}|Comp_vs_inheretence.csproj|c:\\users\\aaliy\\onedrive - university of pittsburgh\\object_oriented_programming\\oop_homework_assignments\\smart_home_library\\comp_vs_inheretence\\smart_device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF341B46-F1CF-54EB-763B-FD48C7A94357}|Comp_vs_inheretence.csproj|solutionrelative:smart_device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF341B46-F1CF-54EB-763B-FD48C7A94357}|Comp_vs_inheretence.csproj|c:\\users\\aaliy\\onedrive - university of pittsburgh\\object_oriented_programming\\oop_homework_assignments\\smart_home_library\\comp_vs_inheretence\\power_module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF341B46-F1CF-54EB-763B-FD48C7A94357}|Comp_vs_inheretence.csproj|solutionrelative:power_module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeviceGroup.cs",
+              "DocumentMoniker": "C:\\Users\\aaliy\\OneDrive - University of Pittsburgh\\Object_Oriented_Programming\\OOP_Homework_Assignments\\Smart_Home_Library\\Comp_vs_inheretence\\DeviceGroup.cs",
+              "RelativeDocumentMoniker": "DeviceGroup.cs",
+              "ToolTip": "C:\\Users\\aaliy\\OneDrive - University of Pittsburgh\\Object_Oriented_Programming\\OOP_Homework_Assignments\\Smart_Home_Library\\Comp_vs_inheretence\\DeviceGroup.cs",
+              "RelativeToolTip": "DeviceGroup.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAArwBIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T18:19:51.4Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Smart_device.cs",
+              "DocumentMoniker": "C:\\Users\\aaliy\\OneDrive - University of Pittsburgh\\Object_Oriented_Programming\\OOP_Homework_Assignments\\Smart_Home_Library\\Comp_vs_inheretence\\Smart_device.cs",
+              "RelativeDocumentMoniker": "Smart_device.cs",
+              "ToolTip": "C:\\Users\\aaliy\\OneDrive - University of Pittsburgh\\Object_Oriented_Programming\\OOP_Homework_Assignments\\Smart_Home_Library\\Comp_vs_inheretence\\Smart_device.cs",
+              "RelativeToolTip": "Smart_device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T17:41:28.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Power_module.cs",
+              "DocumentMoniker": "C:\\Users\\aaliy\\OneDrive - University of Pittsburgh\\Object_Oriented_Programming\\OOP_Homework_Assignments\\Smart_Home_Library\\Comp_vs_inheretence\\Power_module.cs",
+              "RelativeDocumentMoniker": "Power_module.cs",
+              "ToolTip": "C:\\Users\\aaliy\\OneDrive - University of Pittsburgh\\Object_Oriented_Programming\\OOP_Homework_Assignments\\Smart_Home_Library\\Comp_vs_inheretence\\Power_module.cs",
+              "RelativeToolTip": "Power_module.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T17:21:14.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MiniSmartHomeConsole.cs",
+              "DocumentMoniker": "C:\\Users\\aaliy\\OneDrive - University of Pittsburgh\\Object_Oriented_Programming\\OOP_Homework_Assignments\\Smart_Home_Library\\Comp_vs_inheretence\\MiniSmartHomeConsole.cs",
+              "RelativeDocumentMoniker": "MiniSmartHomeConsole.cs",
+              "ToolTip": "C:\\Users\\aaliy\\OneDrive - University of Pittsburgh\\Object_Oriented_Programming\\OOP_Homework_Assignments\\Smart_Home_Library\\Comp_vs_inheretence\\MiniSmartHomeConsole.cs",
+              "RelativeToolTip": "MiniSmartHomeConsole.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T22:38:18.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
