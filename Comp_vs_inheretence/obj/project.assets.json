@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aaliy\\OneDrive - University of Pittsburgh\\Object_Oriented_Programming\\OOP_Homework_Assignments\\Smart_Home_Library\\Comp_vs_inheretence\\Comp_vs_inheretence.csproj",
+      "projectUniqueName": "C:\\Users\\aaliy\\OneDrive - University of Pittsburgh\\Object_Oriented_Programming\\OOP_Homework_Assignments\\Comp_vs_inheretence\\Comp_vs_inheretence.csproj",
       "projectName": "Comp_vs_inheretence",
-      "projectPath": "C:\\Users\\aaliy\\OneDrive - University of Pittsburgh\\Object_Oriented_Programming\\OOP_Homework_Assignments\\Smart_Home_Library\\Comp_vs_inheretence\\Comp_vs_inheretence.csproj",
+      "projectPath": "C:\\Users\\aaliy\\OneDrive - University of Pittsburgh\\Object_Oriented_Programming\\OOP_Homework_Assignments\\Comp_vs_inheretence\\Comp_vs_inheretence.csproj",
       "packagesPath": "C:\\Users\\aaliy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aaliy\\OneDrive - University of Pittsburgh\\Object_Oriented_Programming\\OOP_Homework_Assignments\\Smart_Home_Library\\Comp_vs_inheretence\\obj\\",
+      "outputPath": "C:\\Users\\aaliy\\OneDrive - University of Pittsburgh\\Object_Oriented_Programming\\OOP_Homework_Assignments\\Comp_vs_inheretence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
