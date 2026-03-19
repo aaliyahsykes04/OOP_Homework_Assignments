@@ -1,0 +1,15 @@
+C:\Users\aaliy\OneDrive - University of Pittsburgh\Object_Oriented_Programming\OOP_Homework_Assignments\Smart_Home_Library\OOPRefactoring\obj\Debug\net10.0\OOPRefactoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaliy\OneDrive - University of Pittsburgh\Object_Oriented_Programming\OOP_Homework_Assignments\Smart_Home_Library\OOPRefactoring\obj\Debug\net10.0\OOPRefactoring.AssemblyInfoInputs.cache
+C:\Users\aaliy\OneDrive - University of Pittsburgh\Object_Oriented_Programming\OOP_Homework_Assignments\Smart_Home_Library\OOPRefactoring\obj\Debug\net10.0\OOPRefactoring.AssemblyInfo.cs
+C:\Users\aaliy\OneDrive - University of Pittsburgh\Object_Oriented_Programming\OOP_Homework_Assignments\Smart_Home_Library\OOPRefactoring\obj\Debug\net10.0\OOPRefactoring.csproj.CoreCompileInputs.cache
+C:\Users\aaliy\OneDrive - University of Pittsburgh\Object_Oriented_Programming\OOP_Homework_Assignments\Smart_Home_Library\OOPRefactoring\obj\Debug\net10.0\OOPRefactoring.sourcelink.json
+C:\Users\aaliy\OneDrive - University of Pittsburgh\Object_Oriented_Programming\OOP_Homework_Assignments\Smart_Home_Library\OOPRefactoring\bin\Debug\net10.0\OOPRefactoring.exe
+C:\Users\aaliy\OneDrive - University of Pittsburgh\Object_Oriented_Programming\OOP_Homework_Assignments\Smart_Home_Library\OOPRefactoring\bin\Debug\net10.0\OOPRefactoring.deps.json
+C:\Users\aaliy\OneDrive - University of Pittsburgh\Object_Oriented_Programming\OOP_Homework_Assignments\Smart_Home_Library\OOPRefactoring\bin\Debug\net10.0\OOPRefactoring.runtimeconfig.json
+C:\Users\aaliy\OneDrive - University of Pittsburgh\Object_Oriented_Programming\OOP_Homework_Assignments\Smart_Home_Library\OOPRefactoring\bin\Debug\net10.0\OOPRefactoring.dll
+C:\Users\aaliy\OneDrive - University of Pittsburgh\Object_Oriented_Programming\OOP_Homework_Assignments\Smart_Home_Library\OOPRefactoring\bin\Debug\net10.0\OOPRefactoring.pdb
+C:\Users\aaliy\OneDrive - University of Pittsburgh\Object_Oriented_Programming\OOP_Homework_Assignments\Smart_Home_Library\OOPRefactoring\obj\Debug\net10.0\OOPRefactoring.dll
+C:\Users\aaliy\OneDrive - University of Pittsburgh\Object_Oriented_Programming\OOP_Homework_Assignments\Smart_Home_Library\OOPRefactoring\obj\Debug\net10.0\refint\OOPRefactoring.dll
+C:\Users\aaliy\OneDrive - University of Pittsburgh\Object_Oriented_Programming\OOP_Homework_Assignments\Smart_Home_Library\OOPRefactoring\obj\Debug\net10.0\OOPRefactoring.pdb
+C:\Users\aaliy\OneDrive - University of Pittsburgh\Object_Oriented_Programming\OOP_Homework_Assignments\Smart_Home_Library\OOPRefactoring\obj\Debug\net10.0\OOPRefactoring.genruntimeconfig.cache
+C:\Users\aaliy\OneDrive - University of Pittsburgh\Object_Oriented_Programming\OOP_Homework_Assignments\Smart_Home_Library\OOPRefactoring\obj\Debug\net10.0\ref\OOPRefactoring.dll
